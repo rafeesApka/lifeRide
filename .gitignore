@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+.newEnv/
+.delEnv/
+
+# IDE config
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Others
+*.sqlite3
+*.db
+*.bak

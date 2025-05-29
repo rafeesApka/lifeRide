@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/book")
 def book_ambulance():
-    return {"message": "Ambulance booking successful"}
+    return {"message": "Ambulance booking successfullllllll"}
